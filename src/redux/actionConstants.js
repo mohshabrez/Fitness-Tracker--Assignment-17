@@ -1,4 +1,4 @@
-export const BASE_URL = "https://fit-to-hit-api.sheikshabrez.repl.co/api/v1"
+export const BASE_URL = "https://b43fe51c-18ec-4215-96fe-2ef4b5767a1a-00-w4g9rbhuyyt5.asia-b.replit.dev/api/v1"
 
 // *******AUTH ACTIONS *****
 
